@@ -1,6 +1,6 @@
 # BIO331 - Υπολογιστική και Συστημική Βιολογία
 
-## Διδάσκων: Αναπλ. Καθ. [Βασίλης Προμπονάς](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](vprobon@ucy.ac.cy)
+## Διδάσκων: Αναπλ. Καθ. [Βασίλης Προμπονάς](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
 
 ##  Περιγραφή 
 Οι υπολογιστικές προσεγγίσεις παίζουν σημαντικό ρόλο
