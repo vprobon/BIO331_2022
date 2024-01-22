@@ -36,6 +36,10 @@
 ### Προαιρετικό υλικό
 #### Εξοικοίωση με το Linux/γραμμή εντολών
 [The Unix Shell](https://swcarpentry.github.io/shell-novice/) a short course bu the Software Carpentry.
+
 [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners),a short tutorial by Ubuntu. 
-#### [Εισαγωγή στον προγραμματισμό με τη γλώσσα Perl](https://github.com/vprobon/BIO331/blob/master/perl.md)
+
+#### Λίγα στοιχεία για την Perl
+[Εισαγωγή στον προγραμματισμό με τη γλώσσα Perl](https://github.com/vprobon/BIO331/blob/master/perl.md)
+
 #### Εισαγωγή στο περιβάλλον της R (Coming soon!)
