@@ -17,7 +17,11 @@
 Η πλατφόρμα αυτή παρέχεται δωρεάν για χρήση, με τον περιορισμό ότι οι χρήστες πρέπει να έχουν λογαριασμό χρήστη στις υπηρεσίες της Google (Google/Gmail Αγαπητές και αγαπητοί BIO331_Spring2023,
 
 ## Η πλατφόρμα Google Colab
-Μπορείτε να δείτε ένα υπόδειγμα notebook στην ιστοσελίδα [https://colab.research.google.com/drive/1mK3KaRDWnL7ek66vq2ayurVpydbVMXtr?usp=sharing](https://colab.research.google.com/drive/1mK3KaRDWnL7ek66vq2ayurVpydbVMXtr?usp=sharing).
+Μπορείτε να δείτε ένα υπόδειγμα notebook στην ιστοσελίδα 
+[https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb) 
+ή την ελληνική εκδοχή του
+[https://colab.research.google.com/notebooks/welcome.ipynb?hl=el](https://colab.research.google.com/notebooks/welcome.ipynb?hl=el).
+
 
 
 
