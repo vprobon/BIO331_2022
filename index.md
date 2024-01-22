@@ -1,6 +1,6 @@
 # BIO331 - Υπολογιστική και Συστημική Βιολογία
 
-## Διδάσκων: Αναπλ. Καθ. [Βασίλης Προμπονάς](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
+## Διδάσκων: Αναπλ. Καθ. [Βασίλης Προμπονάς](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [promponas.vasileios@ucy.ac.cy](mailto:promponas.vasileios@ucy.ac.cy)
 
 ##  Περιγραφή 
 Οι υπολογιστικές προσεγγίσεις παίζουν σημαντικό ρόλο
@@ -24,11 +24,8 @@
 >
 >**Διαλέξεις**: Δευτέρα και Πέμπτη, 10.30-12.00 (B141 - ΣΘΕΕ01).
 >
->**Φροντιστήριο**: Τετάρτη, 12.00-13.00 (TBD).
+>**Φροντιστήριο**: Τετάρτη, 12.00-13.00 (B141 - ΣΘΕΕ01).
 >
->>**ΠΡΟΣΟΧΗ**: 
->>Με βάση τις σχετικές αποφάσεις της Συγκλήτου του ΠΚ για τον έλεγχο της πανδημίας για το διάστημα των πρώτων 4 εβδομάδων όλες οι συναντήσεις του μαθήματος θα πραγματοποιηθούν μέσω 
->>της πλατφόρμας TEAMS.
 >Η ημερομηνία της τελικής εξέτασης θα οριστεί από την ΥΣΦΜ.
 
 
@@ -38,6 +35,7 @@
 
 ### Προαιρετικό υλικό
 #### Εξοικοίωση με το Linux/γραμμή εντολών
-[http://hermes.survey.ntua.gr/web/FreeBooks/Mathimata_Unix_Linux_gia_Arxarious/](http://hermes.survey.ntua.gr/web/FreeBooks/Mathimata_Unix_Linux_gia_Arxarious/)
+[The Unix Shell](https://swcarpentry.github.io/shell-novice/) a short course bu the Software Carpentry.
+[The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners),a short tutorial by Ubuntu. 
 #### [Εισαγωγή στον προγραμματισμό με τη γλώσσα Perl](https://github.com/vprobon/BIO331/blob/master/perl.md)
-#### Εισαγωγή στο περιβάλλον της R
+#### Εισαγωγή στο περιβάλλον της R (Coming soon!)
