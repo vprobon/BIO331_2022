@@ -20,6 +20,18 @@ A Gentle Introduction to Python for Life Scientists
 [https://www.py4e.com/book.php](https://www.py4e.com/book.php). 
 
 
+### Προαιρετικό υλικό
+#### Εξοικοίωση με το Linux/γραμμή εντολών
+[The Unix Shell](https://swcarpentry.github.io/shell-novice/) ένα σύντομο tutorial από το Software Carpentry.
+
+[The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners), ένα σύντομο tutorial από το Ubuntu. 
+
+#### Λίγα στοιχεία για την Perl
+[Εισαγωγή στον προγραμματισμό με τη γλώσσα Perl](https://github.com/vprobon/BIO331/blob/master/perl.md)
+
+#### Εισαγωγή στο περιβάλλον της R (Coming soon!)
+
+
 
 
 
