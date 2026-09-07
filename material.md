@@ -29,8 +29,6 @@ A Gentle Introduction to Python for Life Scientists
 #### Λίγα στοιχεία για την Perl
 [Εισαγωγή στον προγραμματισμό με τη γλώσσα Perl](https://github.com/vprobon/BIO331/blob/master/perl.md)
 
-#### Εισαγωγή στο περιβάλλον της R (Coming soon!)
-
 
 
 
